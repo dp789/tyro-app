@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TYRO CLUB</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="Nav_bar_header">TYRO</string>
+    <string name="Nav_bar_mail_id">tyro.srms@gmail.com</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_reg">Register</string>
+    <string name="nav_about">About</string>
+    <string name="card_title">ZEST</string>
+    <string name="card_text">Catch the latest blockbusters</string>
+    <string name="movie1">Black Panther</string>
+    <string name="movie2">Thor Ragnarok</string>
+    <string name="movie3">Spiderman</string>
+    <string name="movie4">Doctor Strange</string>
+    <string name="top_selling_audiobooks">Top Selling Audiobooks</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
